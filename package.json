@@ -1,0 +1,31 @@
+{
+  "name": "electronic-transmission",
+  "version": "0.0.1",
+  "description": "Transmission remote GUI written in Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OrcaXS Suen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "eslint": "^3.14.0"
+  },
+  "dependencies": {
+    "electron": "^1.4.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrcaXS/electronic-transmission.git"
+  },
+  "keywords": [
+    "electron",
+    "transmission"
+  ],
+  "bugs": {
+    "url": "https://github.com/OrcaXS/electronic-transmission/issues"
+  },
+  "homepage": "https://github.com/OrcaXS/electronic-transmission#readme"
+}

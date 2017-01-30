@@ -1,6 +1,6 @@
 # electronic-transmission-vue
 
-> Transmission remote GUI written in Electron
+> An electron-vue project
 
 ## Build Setup
 
